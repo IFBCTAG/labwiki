@@ -9,7 +9,7 @@ Taguatinga.
 
 ## Sumário
 - [Introdução](#introducao)
-- Laboratórios]
+- Laboratórios
     - [B1-14](b1-14)
     - [B1-16](b1-16)
     - [B1-17](b1-17)
