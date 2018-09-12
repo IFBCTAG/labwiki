@@ -28,7 +28,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ '/' | relative_url }}"><img src="{{ site.logo_url }}">
+        <a href="{{ site.url }}"><img src="{{ site.url | append: '/' | append: site.logo_url }}">
           
           <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
         </a>
@@ -63,8 +63,8 @@
           {% if site.use_prose_io %}
           <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Edit with Prose.io</a></span>
           {% endif %}
-          <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/commits/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">History</a></span>
-          <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Source</a></span>
+          <!-- <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/commits/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">History</a></span> -->
+          <!-- <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Source</a></span> -->
         {% endif %}
         
         {% if site.google_cse_token %}
