@@ -20,10 +20,12 @@ realizado nestes laboratórios. Os objetivos principais desta Wiki são:
 - Ser uma forma de consulta para técnicos, professores e estagiários.
 
 
-# B1-14 Laboratório de Informática
+# [B1-14 Laboratório de Informática](b1-14)
 
-# B1-16 Laboratório de Redes e Sistemas Operacionais
 
-# B1-17 Laboratório de Informática
+# [B1-14 Laboratório de Redes e Sistemas Operacionais](b1-16)
 
-# Datacenter
+
+# [B1-17 Laboratório de Informática](b1-17)
+
+# [Datacenter](Datacenter)
