@@ -10,8 +10,8 @@ Taguatinga.
 # Introdução
 
 Nesta wiki a comissão de organização e gerência dos laboratórios de Informática
-do Bloco B do IFB, *campus* taguatinga, documentará todo procedimento a ser
-realizado nestes laboratórios. Os objetivos principais desta Wiki são:
+do Bloco B do IFB, *campus* taguatinga, documentará todo procedimento que foi,
+é, ou será realizado nestes laboratórios. Os objetivos principais desta Wiki são:
 
 - Detalhar os procedimentos de:
     -  Instalação de softwares.
