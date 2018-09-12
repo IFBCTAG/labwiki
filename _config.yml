@@ -1,13 +1,13 @@
 title: Wiki dos Laboratórios de Informática
 description: Página Wiki dos Laboratórios de Informática do Bloco B do IFB, campus Taguatinga.
-show_downloads: true
+show_downloads: false
 git_branch: master
 logo_url: assets/images/ifb-taguatinga.png
 google_analytics:
 theme: 
 wiki_folder: wiki
 use_github_wiki: false
-use_prose_io: true
+use_prose_io: false
 google_cse_token: 
 custom_head: false
 custom_sidebar: false
