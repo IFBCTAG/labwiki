@@ -4,5 +4,9 @@ layout: page
 
 # Laboratório de Redes e Sistemas Operacionais B1-16
 
+## Procedimentos
+
+- [Instalação Windows XP]({% post_url 2010-07-21-instalacao-windows-xp %})
+
 
 ## Inventário

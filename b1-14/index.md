@@ -7,7 +7,7 @@ layout: page
 
 ## Procedimentos
 
-[Instalação Windows XP]({% post_url 2010-07-21-instalacao-windows-xp %})
+- [Instalação Windows XP]({% post_url 2010-07-21-instalacao-windows-xp %})
 
 
 ## Inventário
