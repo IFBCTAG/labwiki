@@ -7,7 +7,7 @@ layout: page
 
 ## Procedimentos
 
-- [Instalação Windows XP](../instalacao-windows-xp.md)
+- [Instalação Windows XP](../procedimentos/instalacao-windows-xp.md)
 
 
 ## Inventário
