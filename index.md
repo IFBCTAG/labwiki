@@ -21,7 +21,7 @@ do Bloco B do IFB, *campus* taguatinga, documentará todo procedimento que foi,
 # [B1-14 Laboratório de Informática](b1-14)
 
 
-# [B1-14 Laboratório de Redes e Sistemas Operacionais](b1-16)
+# [B1-16 Laboratório de Redes e Sistemas Operacionais](b1-16)
 
 
 # [B1-17 Laboratório de Informática](b1-17)
