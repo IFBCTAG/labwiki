@@ -26,4 +26,4 @@ do Bloco B do IFB, *campus* taguatinga, documentará todo procedimento que foi,
 
 # [B1-17 Laboratório de Informática](b1-17)
 
-# [Datacenter](Datacenter)
+# [Datacenter](datacenter)
